@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 /* Called in and identified source of fonts through the use of font family. */
 @font-face {
     font-family: "Champagne";
@@ -48,6 +50,7 @@ p {
 
 body>p {
     font-size: 1.1em;
+    text-align: center;
 }
 
 address {
